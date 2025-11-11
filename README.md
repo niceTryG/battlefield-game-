@@ -6,6 +6,14 @@ It’s built using the **Kivy** framework and includes simple animations, collis
 
 ---
 
+## 🎨 Game Preview
+
+![Gameplay Screenshot](images/battlefield_image1.png)
+![After Launcher Destruction](images/battlefield_image2.png)
+
+---
+
+
 ## 🕹️ Game Overview
 - Two **barriers** move vertically on the screen.
 - Each barrier has a **fire launcher** attached that fires diagonally every second.
